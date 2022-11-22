@@ -1,0 +1,88 @@
+[        Platform] [15:57:02]  Openplanet for Trackmania Next x64
+[        Platform] [15:57:02]  (c) Melissa Geels 2016 - 2022
+[        Platform] [15:57:02]  https://openplanet.dev/
+[        Platform] [15:57:02]  Openplanet starting on 2022-11-19
+[        Platform] [15:57:02]  Engine: 2022-11-16 05:57:19
+[        Platform] [15:57:02]  Openplanet: 1.25.15 (next, Public, 2022-09-29)
+[        Platform] [15:57:02]  Identifier: 0x000000006374D01F
+[        Platform] [15:57:02]  Process ID: 13116
+[        Platform] [15:57:02]  Attempting automatic detection of game version data for game version 0x000000006374D01F
+[        Platform] [15:57:02]  Autodetecting game version data:
+[        Platform] [15:57:06]  Setting up hook callbacks...
+[        Platform] [15:57:08]  Semi entry initialization...
+[        Platform] [15:57:08]  Update branch: default
+[        Platform] [15:57:09]  Did not find update to install.
+[        Platform] [15:57:32]  Loop entry initialization...
+[        Platform] [15:57:32]  Requesting app config with timeout 5000...
+[        Platform] [15:57:33]  Hooking WndProc...
+[        Platform] [15:57:33]  Window handle: 00030a50 ("Trackmania")
+[        Platform] [15:57:33]  Adding user library path...
+[        Platform] [15:57:33]  Initializing audio...
+[           Audio] [15:57:33]  Setting playback device to "Speakers (High Definition Audio Device)"
+[        Platform] [15:57:33]  Initializing scripting...
+[    ScriptEngine] [15:57:33]  Registered 2438 classes
+[        Platform] [15:57:34]  Writing type definitions to file: "C:\Users\Vanishing Drive/OpenplanetNext/Openplanet.h"
+[        Platform] [15:57:34]  Writing json to file: "C:\Users\Vanishing Drive/OpenplanetNext/OpenplanetNext.json"
+[        Platform] [15:57:34]  Dumping Openplanet documentation to C:\Users\Vanishing Drive/OpenplanetNext/OpenplanetCore.json
+[        Platform] [15:57:34]  Initializing overlay...
+[        Platform] [15:57:34]  Beginning script engine...
+[    ScriptEngine] [15:57:34]  Adding plugins...
+[    ScriptEngine] [15:57:34]  Loaded plugin 'BigDecor' (version 1.0)
+[    ScriptEngine] [15:57:34]  Loaded plugin 'Camera' (version 1.0)
+[    ScriptEngine] [15:57:34]  Loaded plugin 'ClassicMenu' (version 1.1)
+[    ScriptEngine] [15:57:34]  Loaded plugin 'Discord' (version 1.0)
+[    ScriptEngine] [15:57:34]  Loaded plugin 'InfiniteEmbedSize' (version 1.0)
+[    ScriptEngine] [15:57:34]  Loaded plugin 'NadeoServices' (version 1.0)
+[    ScriptEngine] [15:57:34]  Loaded plugin 'PluginManager' (version 1.0)
+[    ScriptEngine] [15:57:34]  Loaded plugin 'Stats' (version 1.0)
+[    ScriptEngine] [15:57:34]  Loaded plugin 'UsefulInformation' (version 1.0)
+[    ScriptEngine] [15:57:34]  Loaded plugin 'VehicleState' (version 1.0)
+[    ScriptEngine] [15:57:34]  Adding legacy plugins...
+[    ScriptEngine] [15:57:34]  Loaded legacy plugin 'Plugin_EditorDeveloper' (version 1.0)
+[    ScriptEngine] [15:57:34]  Loaded legacy plugin 'Plugin_MapAudioFix' (version 1.0)
+[    ScriptEngine] [15:57:34]  Loaded legacy plugin 'Plugin_GrabData_0_1' (version 1.0)
+[    ScriptEngine] [15:57:34]  Plugins added!
+[        Platform] [15:57:34]  Initialized!
+[   ScriptRuntime] [15:57:34] [Discord]  Initializing Discord...
+[   ScriptRuntime] [15:57:34] [PluginManager]  Checking for plugin updates..
+[   ScriptRuntime] [15:57:34] [Plugin_GrabData_0_1]  276Waiting for incomming connection...
+[   ScriptRuntime] [15:57:36] [Discord]  Discord is ready: xGhost#9201 (ID 135595261538992128)
+[   ScriptRuntime] [16:23:57] [Plugin_GrabData_0_1]  Socket can read
+[   ScriptRuntime] [16:23:57] [Plugin_GrabData_0_1]  1582573Accepted incomming connection.
+[   ScriptRuntime] [16:23:57] [Plugin_GrabData_0_1]  Socket can write
+[   ScriptRuntime] [16:23:57] [Plugin_GrabData_0_1]  1582573 Connected!
+[   ScriptRuntime] [16:25:42] [Plugin_GrabData_0_1]  INFO: Disconnected, could not send data.
+[   ScriptRuntime] [16:25:42] [Plugin_GrabData_0_1]  INFO: Disconnected, could not send data.
+[   ScriptRuntime] [16:25:42] [Plugin_GrabData_0_1]  INFO: Disconnected, could not send data.
+[   ScriptRuntime] [16:25:42] [Plugin_GrabData_0_1]  INFO: Disconnected, could not send data.
+[   ScriptRuntime] [16:25:42] [Plugin_GrabData_0_1]  INFO: Disconnected, could not send data.
+[   ScriptRuntime] [16:25:42] [Plugin_GrabData_0_1]  INFO: Disconnected, could not send data.
+[   ScriptRuntime] [16:25:42] [Plugin_GrabData_0_1]  INFO: Disconnected, could not send data.
+[   ScriptRuntime] [16:25:42] [Plugin_GrabData_0_1]  INFO: Disconnected, could not send data.
+[   ScriptRuntime] [16:25:42] [Plugin_GrabData_0_1]  INFO: Disconnected, could not send data.
+[   ScriptRuntime] [16:25:42] [Plugin_GrabData_0_1]  INFO: Disconnected, could not send data.
+[   ScriptRuntime] [16:25:42] [Plugin_GrabData_0_1]  INFO: Disconnected, could not send data.
+[   ScriptRuntime] [16:25:42] [Plugin_GrabData_0_1]  1687990Waiting for incomming connection...
+[   ScriptRuntime] [16:27:34] [PluginManager]  Checking for plugin updates..
+[   ScriptRuntime] [16:28:53] [Plugin_GrabData_0_1]  Socket can read
+[   ScriptRuntime] [16:28:53] [Plugin_GrabData_0_1]  1878803Accepted incomming connection.
+[   ScriptRuntime] [16:28:53] [Plugin_GrabData_0_1]  Socket can write
+[   ScriptRuntime] [16:28:53] [Plugin_GrabData_0_1]  1878803 Connected!
+[   ScriptRuntime] [16:29:19] [Plugin_GrabData_0_1]  INFO: Disconnected, could not send data.
+[   ScriptRuntime] [16:29:19] [Plugin_GrabData_0_1]  INFO: Disconnected, could not send data.
+[   ScriptRuntime] [16:29:19] [Plugin_GrabData_0_1]  INFO: Disconnected, could not send data.
+[   ScriptRuntime] [16:29:19] [Plugin_GrabData_0_1]  INFO: Disconnected, could not send data.
+[   ScriptRuntime] [16:29:19] [Plugin_GrabData_0_1]  INFO: Disconnected, could not send data.
+[   ScriptRuntime] [16:29:19] [Plugin_GrabData_0_1]  INFO: Disconnected, could not send data.
+[   ScriptRuntime] [16:29:19] [Plugin_GrabData_0_1]  INFO: Disconnected, could not send data.
+[   ScriptRuntime] [16:29:19] [Plugin_GrabData_0_1]  INFO: Disconnected, could not send data.
+[   ScriptRuntime] [16:29:19] [Plugin_GrabData_0_1]  INFO: Disconnected, could not send data.
+[   ScriptRuntime] [16:29:19] [Plugin_GrabData_0_1]  INFO: Disconnected, could not send data.
+[   ScriptRuntime] [16:29:19] [Plugin_GrabData_0_1]  INFO: Disconnected, could not send data.
+[   ScriptRuntime] [16:29:19] [Plugin_GrabData_0_1]  1904832Waiting for incomming connection...
+[        Platform] [16:31:06]  Saving settings
+[   ScriptRuntime] [16:31:06] [Plugin_EditorDeveloper]  Script exception: Null pointer access
+[   ScriptRuntime] [16:31:06] [Plugin_EditorDeveloper]    C:/Program Files (x86)/Ubisoft/Ubisoft Game Launcher/games/Trackmania/Openplanet/Scripts/Plugin_EditorDeveloper.as (line 90, column 2)
+[   ScriptRuntime] [16:31:06] [Plugin_EditorDeveloper]      #0  void OnDestroyed() (C:/Program Files (x86)/Ubisoft/Ubisoft Game Launcher/games/Trackmania/Openplanet/Scripts/Plugin_EditorDeveloper.as line 90)
+[        Platform] [16:31:08]  Saving settings
+[        Platform] [16:31:08]  Terminating Openplanet..
