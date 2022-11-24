@@ -12,3 +12,5 @@ The Trackmania folder contains the files needed for trackmania such as maps. Thi
 The Openplanetnext folder contains the data for OpenPlanet. OpenPlanet is a scripting "plugin" that allows for modification and interfacing with tmrl.
 
 The TmrlData folder holds settings and models for the AI as well as other things.
+
+**Note:** The checkpoints folder contains the model but it is zipped. It must be unzipped in that folder first before you can use it.
